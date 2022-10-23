@@ -5,5 +5,8 @@ public class BasicVariablesInitialization {
         int first=1;
         int second=10;
         int third=100;
+        Sytem.out.println(first);
+        Sytem.out.println(second);
+        Sytem.out.println(third);
     }
 }
